@@ -18,14 +18,14 @@ The artefact processes EU and US AI governance documents and positions them on a
 
 The project uses PDF text extraction, tokenisation, lemmatisation, predefined analytical vocabularies, relative frequency calculations and document-level legal-force multipliers.
 
-<img width="1448" height="1086" alt="image" src="https://github.com/user-attachments/assets/82b3a8df-4a1e-4b99-8114-ade6eaad375c" />
-
 ## Purpose
 
 The objective of this repository is twofold:
 
 1. to allow reproduction of the thesis artefact using the same 24-document corpus;
 2. to provide a reusable notebook that other researchers may adapt to test additional AI governance documents.
+
+<img width="1448" height="1086" alt="image" src="https://github.com/user-attachments/assets/82b3a8df-4a1e-4b99-8114-ade6eaad375c" />
 
 ## Final model version
 
