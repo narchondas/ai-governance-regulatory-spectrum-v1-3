@@ -2,6 +2,7 @@
 
 A reproducible NLP-based artefact for mapping EU and US AI governance documents on a regulatory spectrum.
 
+<img width="1448" height="1086" alt="image" src="https://github.com/user-attachments/assets/11a304c6-2eff-477a-8b31-9c4bc5606f23" />
 
 # AI Governance Regulatory Spectrum Artefact v1.3
 
@@ -60,3 +61,6 @@ ai-governance-regulatory-spectrum-v1-3/
 │
 └── docs/
     └── methodological annex and supporting documentation
+
+<img width="1448" height="1086" alt="image" src="https://github.com/user-attachments/assets/82b3a8df-4a1e-4b99-8114-ade6eaad375c" />
+
