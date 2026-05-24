@@ -18,6 +18,8 @@ The artefact processes EU and US AI governance documents and positions them on a
 
 The project uses PDF text extraction, tokenisation, lemmatisation, predefined analytical vocabularies, relative frequency calculations and document-level legal-force multipliers.
 
+<img width="1448" height="1086" alt="image" src="https://github.com/user-attachments/assets/82b3a8df-4a1e-4b99-8114-ade6eaad375c" />
+
 ## Purpose
 
 The objective of this repository is twofold:
@@ -61,6 +63,3 @@ ai-governance-regulatory-spectrum-v1-3/
 │
 └── docs/
     └── methodological annex and supporting documentation
-
-<img width="1448" height="1086" alt="image" src="https://github.com/user-attachments/assets/82b3a8df-4a1e-4b99-8114-ade6eaad375c" />
-
